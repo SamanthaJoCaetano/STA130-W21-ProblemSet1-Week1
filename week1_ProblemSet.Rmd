@@ -55,7 +55,7 @@ r1 <- 4 * 3
 
 ```
 
-### c) Create a numeric vector called `square_answers` with the values from after the equal signs from the math square above, i.e. 4, 6, 4, and 1, in that order.
+### c) Create a numeric vector called `square_answers` with the values from after the equal signs from the math square above, i.e. 12, 10, 2, and -5, in that order.
 
 ```{r}
 
