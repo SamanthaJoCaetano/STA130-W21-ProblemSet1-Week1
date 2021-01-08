@@ -141,16 +141,18 @@ In this question, you will consider another example of survivor bias. In 1987, a
 
 **Writing prompt**:  
 
-Identify one of the course learning objectives (from the syllabus) that you are most excited about. Describe why this objective is especially interesting to you.
 
-### Some general reminders 
+Identify one of the course learning objectives (from the syllabus) that you are most excited about. Paraphrase the objective (i.e. describe in your own words). You are not allowed to directly quote the objective you have identified. After you have paraphrased the objective, describe why this objective is especially interesting to you. 
+
+### Some guidlines/general reminders 
+- Remember to start with a small introduction that explains what STA130 is, and what you will be discussing in your writing prompt.
 
 - Try to not send more than 20 minutes on the prompt. 
 
-- Aim for more than 200 words but less than 500 words. 
+- Aim for more than 200 words but less than 400 words. 
 
 - Use full sentences.  
 
-- Grammar is *not* the main focus of the assessment, but it is important that you communicate in a clear and professional manner. I.e., no slang or emojis should appear. 
+- While grammar is not the main focus of the assessment, it is important that you communicate in a clear and professional manner. I.e., no slang or emojis should appear. 
 
-- Be specific. A good principle when responding to a writing prompt in STA130 is to assume that your audience is not aware of the subject matter (or in this case has not read the syllabus). Therefore, in this case, you need to properly communicate what the objective is putting it in your own words (paraphrasing). You should not just copy the learning objective and put it in quotation marks.  
+- Be specific. A good principle when preparing a writing sample is to assume that your audience is not aware of the topic matter (or in this case has not read the syllabus). Therefore, you need to properly communicate what the objective is by paraphrasing it, putting it in your own words. You should not use quotations. 
