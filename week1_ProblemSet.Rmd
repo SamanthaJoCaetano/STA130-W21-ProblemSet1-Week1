@@ -100,24 +100,23 @@ For this question we will work with data about the TV show Avatar: The Last Airb
 ```{r}
 library(tidyverse)
 
-avatar <- read_csv("avatar.csv")
+
 # Tip: don't forget to put quote marks around the name of the dataset inside the function
 ```
 
 ### b) We have learned two functions this week that let us quickly get an idea of our data. Apply both of them to the avatar data.
 
 ```{r}
-glimpse(avatar)
-head(avatar)
+
 ```
 
 ### c) Based on your answer to b) answer the following:
 
-How many observations does the `avatar` data frame include? *9,992 observations*
+How many observations does the `avatar` data frame include? 
 
-How many variables are measured for each observation? *10 variables*
+How many variables are measured for each observation? 
 
-How many rows and columns does the `avatar` data frame have? *9,992 rows and 10 columns*
+How many rows and columns does the `avatar` data frame have?
 
 \newpage
 
